@@ -8,4 +8,4 @@
 
 "npm start"
 
-## you can add some dummy data by sending a get request to "http://localhost:3000/api/info/add"
+### you can add some dummy data by sending a get request to "http://localhost:3000/api/info/add"
